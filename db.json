@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "David Henandez2eee",
+      "telefono": "3101245",
+      "correo": "Davi@g.com",
+      "empresa": "Dhxer",
+      "id": 2
+    },
+    {
+      "nombre": "David Henandez3",
+      "telefono": "3101245",
+      "correo": "Davi@g.com",
+      "empresa": "Dhxer",
+      "id": 3
+    }
+  ]
+}
